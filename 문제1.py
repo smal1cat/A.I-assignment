@@ -1,3 +1,4 @@
+#2장 문제
 #인공지능 과제 BFS 전체 소스코드
 class State:
     def __init__(self, board, goal, depth=0):
